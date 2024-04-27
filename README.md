@@ -1,7 +1,7 @@
-Name: priyanshu sharma
-University Roll No.: 2315001715
-Class Roll No.: 48
-Section:- BG
+Name: ANSH PRATAP YADAV
+University Roll No.: 2315000337
+Class Roll No.: 09
+Section:- BG-1
 
 1: BASIC CALCULATOR
 
